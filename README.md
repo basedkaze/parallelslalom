@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @parallelslalom
+- 👋 Hi, I’m @highlightspace
 - 👀 I’m interested in Java, JavaScript, React, Angular, Vue, HTML5, CSS3
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on projects for young developers
