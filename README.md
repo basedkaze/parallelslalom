@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @highlightspace
+- 👋 Hi, I’m @basedkaze - sst expert, gynecologist and software presenter
 - 👀 I’m interested in JavaScript, React, Angular, Vue, HTML5, CSS3
 - 🌱 I’m currently learning Go
 - 📫 How to reach me johnny.parallelslalom@gmail.com
